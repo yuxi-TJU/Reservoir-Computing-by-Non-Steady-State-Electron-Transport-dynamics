@@ -1,8 +1,8 @@
-# reservoir computing on non steady-state-electron transport dynamics
-The code of nonlinear chemical dynamic system through theoretical simulation by integrating a non-steady-state proton-coupled charge transport system into reservoir computing (RC) architecture. 
+# Reservoir Computing by Non-Steady-State Electron Transport Dynamics
+The code of information processing by non-linear chemical dynamics by integrating a non-steady-state proton-coupled charge transport system into reservoir computing (RC) architecture. 
 The article is available on https://doi.org/10.48550/arXiv.2312.12264
 
-The calculation process:
+The algorithmic schematic of the the reservoir computing by non-steady-state proton-coupled charge transport system:
 
 ![Cow3](https://github.com/yuxi-TJU/reservoir-computing-on-non-steady-state-electron-transport-dynamics/blob/main/F1.jpg?raw=true 'Cow3')
 
